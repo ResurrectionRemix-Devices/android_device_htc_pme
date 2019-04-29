@@ -1,15 +1,19 @@
 [
+ {
+   "remote": "github",
+   "repository": "ResurrectionRemix-Devices/android_kernel_htc_msm8996",
+   "target_path": "kernel/htc/msm8996",
+   "branch": "eas-o-dev"
+ },
   {
-    "repository":  "Fagyi/android_kernel_htc_msm8996",
-    "target_path": "kernel/htc/msm8996"
-    "branch":      "eas-o-dev"
-  },
+   "remote": "github",
+   "repository": "LineageOS/android_packages_resources_devicesettings",
+   "target_path": "packages/resources/devicesettings",
+   "branch": "lineage-16.0"
+ },
   {
-    "repository": "android_packages_apps_FlipFlap",
-    "target_path": "packages/apps/FlipFlap"
-  },
-  {
-    "repository": "android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings"
-  }
+   "remote": "github",
+   "repository": "ResurrectionRemix-Devices/proprietary_vendor_htc",
+   "target_path": "vendor/htc",
+   "branch": "lineage-16.0"
 ]
